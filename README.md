@@ -14,4 +14,4 @@ This project focuses on downscaling nitrogen dioxide (NO₂) concentrations from
 - Comparison with previous research and methods
 - Practical implications for urban air quality monitoring
 
-## File Structure
+
